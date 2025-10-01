@@ -31,8 +31,7 @@ Some of the key circuits included:
 - Up / Down counters  
 - RAM modules  
 - Arithmetic Logic Unit (ALU)  
-- Parity checker / generator  
-- And more basic building blocks  
+- Parity checker / generator 
 
 Each module is designed to be synthesizable on FPGA (Basys3) and is paired with testbenches for functional verification.
 
@@ -76,8 +75,7 @@ Here’s how you can use this repository locally:
 
 ---
 
-Thanks for checking it out — happy coding & exploring digital logic on FPGA!  
-— *Your friendly FPGA & Verilog enthusiast*
+Thanks for checking it out — happy coding & exploring digital logic on FPGA!
 
 
 
